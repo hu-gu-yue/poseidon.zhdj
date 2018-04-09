@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: taobao.sdk:taobao-sdk:1455552377940-20160606">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/taobao/sdk/taobao-sdk/1455552377940-20160606/taobao-sdk-1455552377940-20160606.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/taobao/sdk/taobao-sdk/1455552377940-20160606/taobao-sdk-1455552377940-20160606-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/taobao/sdk/taobao-sdk/1455552377940-20160606/taobao-sdk-1455552377940-20160606-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

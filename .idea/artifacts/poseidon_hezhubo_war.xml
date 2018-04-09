@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="poseidon.hezhubo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="zjyou.zhdj.war">
+      <element id="artifact" artifact-name="poseidon.hezhubo:war exploded" />
+    </root>
+  </artifact>
+</component>

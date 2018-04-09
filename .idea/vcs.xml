@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../poseidon.zhdj.core" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../poseidon.zhdj.db" vcs="svn" />
+    <mapping directory="F:/gitResp" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="poseidon.service.apollo:war">
+    <output-path>$PROJECT_DIR$/../poseidon.service.apollo/target</output-path>
+    <root id="archive" name="apollo.war">
+      <element id="artifact" artifact-name="poseidon.service.apollo:war exploded" />
+    </root>
+  </artifact>
+</component>

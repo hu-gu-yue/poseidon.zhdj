@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../poseidon.app.service/poseidon.app.service.iml" filepath="$PROJECT_DIR$/../poseidon.app.service/poseidon.app.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poseidon.hezhubo.iml" filepath="$PROJECT_DIR$/poseidon.hezhubo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../poseidon.hezhubo.core/poseidon.hezhubo.core.iml" filepath="$PROJECT_DIR$/../poseidon.hezhubo.core/poseidon.hezhubo.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../poseidon.hezhubo.db/poseidon.hezhubo.db.iml" filepath="$PROJECT_DIR$/../poseidon.hezhubo.db/poseidon.hezhubo.db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../poseidon.lib.alipay/poseidon.lib.alipay.iml" filepath="$PROJECT_DIR$/../poseidon.lib.alipay/poseidon.lib.alipay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../poseidon.lib.core/poseidon.lib.core.iml" filepath="$PROJECT_DIR$/../poseidon.lib.core/poseidon.lib.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../poseidon.web.admin/poseidon.web.admin.iml" filepath="$PROJECT_DIR$/../poseidon.web.admin/poseidon.web.admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../poseidon.web.mobile/poseidon.web.mobile.iml" filepath="$PROJECT_DIR$/../poseidon.web.mobile/poseidon.web.mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../poseidon.web.muses.db/poseidon.web.muses.db.iml" filepath="$PROJECT_DIR$/../poseidon.web.muses.db/poseidon.web.muses.db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../poseidon.web.server.act/poseidon.web.server.act.iml" filepath="$PROJECT_DIR$/../poseidon.web.server.act/poseidon.web.server.act.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../poseidon.web.server.tribe/poseidon.web.server.tribe.iml" filepath="$PROJECT_DIR$/../poseidon.web.server.tribe/poseidon.web.server.tribe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../poseidon.web.server.user/poseidon.web.server.user.iml" filepath="$PROJECT_DIR$/../poseidon.web.server.user/poseidon.web.server.user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../poseidon.zhdj.core/poseidon.zhdj.core.iml" filepath="$PROJECT_DIR$/../poseidon.zhdj.core/poseidon.zhdj.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../poseidon.zhdj.db/poseidon.zhdj.db.iml" filepath="$PROJECT_DIR$/../poseidon.zhdj.db/poseidon.zhdj.db.iml" />
+    </modules>
+  </component>
+</project>

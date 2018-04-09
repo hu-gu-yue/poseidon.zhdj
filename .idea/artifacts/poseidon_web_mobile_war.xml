@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="poseidon.web.mobile:war">
+    <output-path>$PROJECT_DIR$/../poseidon.web.mobile/target</output-path>
+    <root id="archive" name="zjyou.mobile.war">
+      <element id="artifact" artifact-name="poseidon.web.mobile:war exploded" />
+    </root>
+  </artifact>
+</component>

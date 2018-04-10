@@ -42,10 +42,10 @@ public class ZhiboController extends BaseController{
 	//结果公示页面
 	@RequestMapping(value = { "/hezhubo"})
 	public String hezhuboResult(HttpServletRequest request, Model model, Integer inner, HttpServletResponse response,@RequestParam(defaultValue = "1")String page) {
-//		if(StringTool.isEmpty(CookieTool.getCookieByName(request,"qcj_uid"))){
-//			CookieTool.addCookie(response,"qcj_uid","hexiaosheng");
-//			CookieTool.addCookie(response,"qcj_userName","和小生");
-//		}
+		if(StringTool.isEmpty(CookieTool.getCookieByName(request,"qcj_uid"))){
+			CookieTool.addCookie(response,"qcj_uid","hexiaosheng");
+			CookieTool.addCookie(response,"qcj_userName","和小生");
+		}
 		//如果没有登录，调中烟的登录接口
 		if(!hasCookie(request, "qcj_uid")){
 			if(null == inner){
